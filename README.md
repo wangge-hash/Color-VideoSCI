@@ -25,7 +25,7 @@ python tools/train_color_fuse.py configs/EfficientSCI/efficientsci_base.py
 ```
 
 ## Testing on Simulation Dataset 
-The testing procedures and model evaluation process for this project have been organized in a Jupyter Notebook. Open and run the file `eval_color_sim.ipynb` in your environment; execute the code cells sequentially to view the full testing workflow and results.
+The testing procedures and model evaluation process for this project have been organized in a Jupyter Notebook. Open and run the file `eval_color_sim.ipynb` in your environment; execute the code cells sequentially to view the full testing workflow and results. Checkpoints for base model (ckpt0_color.pth) and our model (ckpt1_color.pth) are in [BaiduNetdisk](https://pan.baidu.com/s/1k19pmeF_e9u3TihaFr-CdA?pwd=u6en), and place them in the checkpoints folder.
 
 
 
